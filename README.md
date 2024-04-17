@@ -1,62 +1,24 @@
-<h1 align="center">Seja bem vindo</h1>
+<h1 align="center">Oi! Sou Alexandre Diniz</h1>
+<h3 align="center">Estudante de Ciência da Computação no IFTM</h3>
 
-<p align="left"> <a href="https://github.com/AlexandreDinizVeloso"><img src="https://i.imgur.com/nQqd4GR.png" alt="banner" /></a> </p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=alexandredinizveloso" alt="alexandredinizveloso" /> </a> </p>
 
-<h1 align="center">Meus status</h1>
+- 🌱 Atualmente aprendendo **IA e React**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=AlexandreDinizVeloso&show_icons=true&theme=jolly" alt="nota"</p><br>
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDinizVeloso&theme=jolly" alt="stats" /></a> </p><br>
+- 📫 Email **alexandredinizveloso@gmail.com**
 
-<h1 align="center">Linguagens e ferramentas</h1>
-<table align="center">
- <tr>
-  <td align="center" width="180">   
-   <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img><br>JavaScript
-  </td> 
-  <td align="center" width="180">   
-   <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img><br>HTML
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
-  <br>CSS
-  </td>
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="C" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></img><br>C
-  </td>
- </tr>
- 
-  <tr>
-  <td align="center" width="180">   
-   <img align="center" alt="Java" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></img><br>Java
-  </td> 
-  <td align="center" width="180">   
-   <img align="center" alt="Lua" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"></img><br>Lua
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="Python" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></img><br>Python
-  </td>
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="Qt" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></img><br>Qt
-  </td>
- </tr>
-   
- <tr>
-  <td align="center" width="180">   
-   <img align="center" alt="Tf" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"></img><br>TensorFlow
-  </td> 
-  <td align="center" width="180">   
-   <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></img><br>Linux
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="Git" height="60" width="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><br>Git / GitHub 
-  </td>
-  </td>
-  <td align="center" width="180">   
-   <img align="center" alt="MySQL" height="75" width="75" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png"></img><br>MySQL
-  </td>
- </tr>
-</table>
+- ⚡ Curiosidade: **Meus hobbies são jogos, de TODOS os tipos**
 
-<p><h1 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandredinizveloso&theme=dark" alt="alexandredinizveloso" /></h1></p>
+<h3 align="left">Conecte comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alexandredinizveloso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandredinizveloso" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandredinizveloso&show_icons=true&locale=en&layout=compact" alt="alexandredinizveloso" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandredinizveloso&show_icons=true&locale=en" alt="alexandredinizveloso" /></p><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandredinizveloso&" alt="alexandredinizveloso" /></p>
+
